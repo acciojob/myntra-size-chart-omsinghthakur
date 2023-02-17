@@ -1,2 +1,16 @@
+.table{ 
+	width:500px; 
 
-/* Your CSS Code here. */
+} 
+.ro{
+	background-color:#FA8072; 
+}
+.rov{
+	background-color:#FFE4E1; 
+}
+.roc{
+	background-color:#A9A9A9; 
+}
+.head{
+	background-color:#B22222;  
+}
